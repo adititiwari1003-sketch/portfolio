@@ -331,6 +331,7 @@ const IMAGES = {
   "zenfire-fig-4": "assets/img/cases/zenfire-fig-4.png",
   "zenfire-fig-5": "assets/img/cases/zenfire-fig-5.png",
 
+  "goal-hero": "assets/img/cases/goal-hero.png",
   "goal-fig-1": "assets/img/cases/goal-fig-1.png",
   "goal-fig-2": "assets/img/cases/goal-fig-2.png",
   "goal-fig-3": "assets/img/cases/goal-fig-3.png",
@@ -342,6 +343,7 @@ const IMAGES = {
   "system-fig-4": "assets/img/cases/system-fig-4.png",
   "system-fig-5": "assets/img/cases/system-fig-5.png",
 
+  "onedigital-hero": "assets/img/cases/onedigital-hero.png",
   "onedigital-fig-1": "assets/img/cases/onedigital-fig-1.png",
   "onedigital-fig-2": "assets/img/cases/onedigital-fig-2.png",
   "onedigital-fig-3": "assets/img/cases/onedigital-fig-3.png",
@@ -357,12 +359,14 @@ const IMAGES = {
   "invictus-fig-4": "assets/img/cases/invictus-fig-4.png",
   "invictus-fig-5": "assets/img/cases/invictus-fig-5.png",
 
+  "aif-hero": "assets/img/cases/aif-hero.png",
   "aif-fig-1": "assets/img/cases/aif-fig-1.png",
   "aif-fig-2": "assets/img/cases/aif-fig-2.png",
   "aif-fig-3": "assets/img/cases/aif-fig-3.png",
   "aif-fig-4": "assets/img/cases/aif-fig-4.png",
   "aif-fig-5": "assets/img/cases/aif-fig-5.png",
 
+  "clara-hero": "assets/img/cases/clara-hero.png",
   "clara-fig-1": "assets/img/cases/clara-fig-1.png",
   "clara-fig-2": "assets/img/cases/clara-fig-2.png",
   "clara-fig-3": "assets/img/cases/clara-fig-3.png",
