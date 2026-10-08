@@ -324,7 +324,7 @@ const IMAGES = {
 
   // Older design-round assets, still reasonable stand-ins where no newer
   // export exists yet.
-  "zenfire-hero": "assets/img/zenfire/hero.jpg",
+  "zenfire-hero": "assets/img/cases/zenfire-hero.jpg",
   "zenfire-fig-1": "assets/img/zenfire/hero.jpg",
   "zenfire-fig-2": "assets/img/cases/zenfire-fig-2.png",
   "zenfire-fig-3": "assets/img/cases/zenfire-fig-3.png",
@@ -337,6 +337,7 @@ const IMAGES = {
   "goal-fig-3": "assets/img/cases/goal-fig-3.png",
   "goal-fig-4": "assets/img/cases/goal-fig-4.png",
 
+  "system-hero": "assets/img/cases/system-hero.webp",
   "system-fig-1": "assets/img/cases/system-fig-1.png",
   "system-fig-2": "assets/img/cases/system-fig-2.png",
   "system-fig-3": "assets/img/cases/system-fig-3.png",
@@ -353,6 +354,7 @@ const IMAGES = {
   "onedigital-fig-7": "assets/img/cases/onedigital-fig-7.png",
   "onedigital-fig-8": "assets/img/cases/onedigital-fig-8.png",
 
+  "invictus-hero": "assets/img/cases/invictus-hero.webp",
   "invictus-fig-1": "assets/img/cases/invictus-fig-1.png",
   "invictus-fig-2": "assets/img/cases/invictus-fig-2.png",
   "invictus-fig-3": "assets/img/cases/invictus-fig-3.png",
