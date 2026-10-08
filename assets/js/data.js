@@ -324,24 +324,27 @@ const IMAGES = {
 
   // Older design-round assets, still reasonable stand-ins where no newer
   // export exists yet.
-  "zenfire-hero": "assets/img/zenfire/hero.jpg",
+  "zenfire-hero": "assets/img/cases/zenfire-hero.jpg",
   "zenfire-fig-1": "assets/img/zenfire/hero.jpg",
   "zenfire-fig-2": "assets/img/cases/zenfire-fig-2.png",
   "zenfire-fig-3": "assets/img/cases/zenfire-fig-3.png",
   "zenfire-fig-4": "assets/img/cases/zenfire-fig-4.png",
   "zenfire-fig-5": "assets/img/cases/zenfire-fig-5.png",
 
+  "goal-hero": "assets/img/cases/goal-hero.png",
   "goal-fig-1": "assets/img/cases/goal-fig-1.png",
   "goal-fig-2": "assets/img/cases/goal-fig-2.png",
   "goal-fig-3": "assets/img/cases/goal-fig-3.png",
   "goal-fig-4": "assets/img/cases/goal-fig-4.png",
 
+  "system-hero": "assets/img/cases/system-hero.webp",
   "system-fig-1": "assets/img/cases/system-fig-1.png",
   "system-fig-2": "assets/img/cases/system-fig-2.png",
   "system-fig-3": "assets/img/cases/system-fig-3.png",
   "system-fig-4": "assets/img/cases/system-fig-4.png",
   "system-fig-5": "assets/img/cases/system-fig-5.png",
 
+  "onedigital-hero": "assets/img/cases/onedigital-hero.png",
   "onedigital-fig-1": "assets/img/cases/onedigital-fig-1.png",
   "onedigital-fig-2": "assets/img/cases/onedigital-fig-2.png",
   "onedigital-fig-3": "assets/img/cases/onedigital-fig-3.png",
@@ -351,18 +354,21 @@ const IMAGES = {
   "onedigital-fig-7": "assets/img/cases/onedigital-fig-7.png",
   "onedigital-fig-8": "assets/img/cases/onedigital-fig-8.png",
 
+  "invictus-hero": "assets/img/cases/invictus-hero.webp",
   "invictus-fig-1": "assets/img/cases/invictus-fig-1.png",
   "invictus-fig-2": "assets/img/cases/invictus-fig-2.png",
   "invictus-fig-3": "assets/img/cases/invictus-fig-3.png",
   "invictus-fig-4": "assets/img/cases/invictus-fig-4.png",
   "invictus-fig-5": "assets/img/cases/invictus-fig-5.png",
 
+  "aif-hero": "assets/img/cases/aif-hero.png",
   "aif-fig-1": "assets/img/cases/aif-fig-1.png",
   "aif-fig-2": "assets/img/cases/aif-fig-2.png",
   "aif-fig-3": "assets/img/cases/aif-fig-3.png",
   "aif-fig-4": "assets/img/cases/aif-fig-4.png",
   "aif-fig-5": "assets/img/cases/aif-fig-5.png",
 
+  "clara-hero": "assets/img/cases/clara-hero.png",
   "clara-fig-1": "assets/img/cases/clara-fig-1.png",
   "clara-fig-2": "assets/img/cases/clara-fig-2.png",
   "clara-fig-3": "assets/img/cases/clara-fig-3.png",
