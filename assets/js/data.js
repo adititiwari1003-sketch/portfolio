@@ -327,6 +327,7 @@ const IMAGES = {
   "zenfire-hero": "assets/img/zenfire/hero.jpg",
   "zenfire-fig-1": "assets/img/zenfire/hero.jpg",
   "zenfire-fig-2": "assets/img/cases/zenfire-fig-2.png",
+  "zenfire-fig-3": "assets/img/cases/zenfire-fig-3.png",
   "zenfire-fig-4": "assets/img/cases/zenfire-fig-4.png",
   "zenfire-fig-5": "assets/img/cases/zenfire-fig-5.png",
 
