@@ -326,6 +326,49 @@ const IMAGES = {
   // export exists yet.
   "zenfire-hero": "assets/img/zenfire/hero.jpg",
   "zenfire-fig-1": "assets/img/zenfire/hero.jpg",
+  "zenfire-fig-2": "assets/img/cases/zenfire-fig-2.png",
+  "zenfire-fig-3": "assets/img/cases/zenfire-fig-3.png",
+  "zenfire-fig-4": "assets/img/cases/zenfire-fig-4.png",
+  "zenfire-fig-5": "assets/img/cases/zenfire-fig-5.png",
+
+  "goal-fig-1": "assets/img/cases/goal-fig-1.png",
+  "goal-fig-2": "assets/img/cases/goal-fig-2.png",
+  "goal-fig-3": "assets/img/cases/goal-fig-3.png",
+  "goal-fig-4": "assets/img/cases/goal-fig-4.png",
+
+  "system-fig-1": "assets/img/cases/system-fig-1.png",
+  "system-fig-2": "assets/img/cases/system-fig-2.png",
+  "system-fig-3": "assets/img/cases/system-fig-3.png",
+  "system-fig-4": "assets/img/cases/system-fig-4.png",
+  "system-fig-5": "assets/img/cases/system-fig-5.png",
+
+  "onedigital-fig-1": "assets/img/cases/onedigital-fig-1.png",
+  "onedigital-fig-2": "assets/img/cases/onedigital-fig-2.png",
+  "onedigital-fig-3": "assets/img/cases/onedigital-fig-3.png",
+  "onedigital-fig-4": "assets/img/cases/onedigital-fig-4.png",
+  "onedigital-fig-5": "assets/img/cases/onedigital-fig-5.png",
+  "onedigital-fig-6": "assets/img/cases/onedigital-fig-6.png",
+  "onedigital-fig-7": "assets/img/cases/onedigital-fig-7.png",
+  "onedigital-fig-8": "assets/img/cases/onedigital-fig-8.png",
+
+  "invictus-fig-1": "assets/img/cases/invictus-fig-1.png",
+  "invictus-fig-2": "assets/img/cases/invictus-fig-2.png",
+  "invictus-fig-3": "assets/img/cases/invictus-fig-3.png",
+  "invictus-fig-4": "assets/img/cases/invictus-fig-4.png",
+  "invictus-fig-5": "assets/img/cases/invictus-fig-5.png",
+
+  "aif-fig-1": "assets/img/cases/aif-fig-1.png",
+  "aif-fig-2": "assets/img/cases/aif-fig-2.png",
+  "aif-fig-3": "assets/img/cases/aif-fig-3.png",
+  "aif-fig-4": "assets/img/cases/aif-fig-4.png",
+  "aif-fig-5": "assets/img/cases/aif-fig-5.png",
+
+  "clara-fig-1": "assets/img/cases/clara-fig-1.png",
+  "clara-fig-2": "assets/img/cases/clara-fig-2.png",
+  "clara-fig-3": "assets/img/cases/clara-fig-3.png",
+  "clara-fig-4": "assets/img/cases/clara-fig-4.png",
+  "clara-fig-5": "assets/img/cases/clara-fig-5.png",
+
   "beyond-logos": "assets/img/logos/aimate-logo.png",
   "beyond-social": "assets/img/social/john-owens-social-ad.jpg"
 };
