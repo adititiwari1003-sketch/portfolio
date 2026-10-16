@@ -376,7 +376,9 @@ const IMAGES = {
   "clara-fig-5": "assets/img/cases/clara-fig-5.png",
 
   "beyond-logos": "assets/img/logos/aimate-logo.png",
-  "beyond-social": "assets/img/social/john-owens-social-ad.jpg"
+  "beyond-social": "assets/img/social/john-owens-social-ad.jpg",
+
+  "about-portrait": "assets/img/cases/about-portrait.jpg"
 };
 
 global.SD = {
